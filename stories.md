@@ -101,6 +101,8 @@
   - SDC Server side rendering bug with Google Maps React
   - FEC Optimal way to fetch data 
   - FEC Designing components for lightbox
+  - FEC Defining clear component contracts, jest and enzyme
+    - shallow rendering, snapshots
   - MVP Storing parsed source text in memory, data structure
 
 ### Mistakes and Failures
@@ -122,10 +124,11 @@
   - Seeing the full stack, durable, scalable, modular
 
 ### Leadership
-  - Coordinating for proxy server
+  - Coordinating and anticipating for proxy server
   - Helping a more solo team member stay integrated
+  - Forge ahead of team examine Dockerizing, SSR, deployment
   - Founded a night school education program
-  
+
 
 ### Conflicts
 
