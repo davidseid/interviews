@@ -21,11 +21,17 @@
 ### Greatest Strength
   - Ideas: 
     - Communicator
+      - Thoughtful communicator who tends to work well with others, it sounds like a simple thing, but oddly it is a hard one to teach so I think I lucked out on that. Most other things are teachable. 
+      - It is beneficial across domains, in an engineering team it amplifies what you can learn.
     - Curious 
+      - I'm always looking around the corner, wanting to keep going, see what is next. That I think has made me a great learner and helped me to push beyond where other people might otherwise stop. But it is important to be aware of that too. You have to ship! 
     - Adaptable
-    - Quick learner and love learning new technologies
-  - Thoughtful communicator who tends to work well with others, it sounds like a simple thing, but oddly it is a hard one to teach so I think I lucked out on that. Most other things are teachable. 
-  - It is beneficial across domains, in an engineering team it amplifies what you can learn. 
+      - It isn't always comfortable, but it is a natural tendency of mine to go outside of my comfort zone. I grew up on the central coast, so I went to school in New York, I then moved to India and picked up Hindi and founded a school, I then moved to Osaka. Then I decided to switch careers and teach myself to code and become a software engineer. 
+      - It has trained me to adapt to lots of different environments and find ways to be successful. 
+      - Don't give up easily
+    - Patient and like to look at all sides of a problem
+      - I think this is a fundamental analytical skill
+      - I always try to consider a problem from all sides, hesitant to just go with my first idea, but rather a lot of creativity comes out of examining your second and third ideas. Pixar story. 
   
 ### Greatest Weakness
   - Ask a lot of questions
@@ -37,6 +43,10 @@
 ### What is your dream job?
 
 ### Fit for this company?
+
+### Technical Strengths
+
+### Technical Weaknesses 
 
 ### Recent project
 
@@ -55,6 +65,5 @@
 ### Conflicts
 
 ### What you would do differently
-
 
 
