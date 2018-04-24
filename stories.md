@@ -53,17 +53,61 @@
   - Answer with my dream job
   - Like how they distinguish themselves in a crowded market
 
-### Technical Strengths
+### Technical Strengths/Goals
+  - Love writing beautiful code
+    - modular and readable
+  - Love seeing the full stack
+    - From front end MVC frameworks
+    - API layers and servers
+    - databases and caching systems
+    - Dockerizing and deploying
+    - Architecture and optimization work is conceptually what gets me excited
+  - Particularly strong with JavaScript
+  - Interested in Data Science, Python machine learning, creative AI
 
 ### Technical Weaknesses 
+  - High interest but need more experience with dev ops
+  - Want more exposure to horizontal scaling, deployment with AWS
+  - Some exposure and reading with Kubernetes, Docker swarm, Amazon ECS, dynamic scaling, data persistence with EBS volumes, etc. 
 
 ### Recent project
+  - Two come to mind, give you a quick overview and happy to drill down further.
+  - Marzagat - System Design Decisions
+    - Restaraunt reviews | my microservice
+    - Inherit Front End | Gut Backend
+    - Optimize Query Performance | Benchmark DBs 12s -> 1ms
+    - Stress Test with Artillery and New Relic (middle ware removal) for throughput
+    - Implement Redis cache to bring avg latency down 30%
+    - Server side rendering for SEO and ttfb 50 ms
+    - Dockerize, deploy on AWS EC2, with EBS volumes 
+  - Creator's Block
+    - MVP stage creative writing assistant tool 
+    - inspired by creative AI projects i've seen
+    - Predictive Text Emulation engine with markov chain
+    - What it does, shakespeare example
+    - Lots of fun ideas about where to go with it
 
 # Project Specific Questions
 
 ### Challenges
+  - SDC Schema Design and Optimization | Inheriting Front End
+  - SDC Optimize for webscale 
+    - Seed to 10M
+    - Isolate DBs
+    - Stress test for throughput
+    - Implement redis cache
+    - SSR
+    - Configure for EC2
+  - SDC Server side rendering bug with Google Maps React
+  - FEC Optimal way to fetch data 
+  - FEC Designing components for lightbox
+  - MVP Storing parsed source text in memory, data structure
 
 ### Mistakes and Failures
+  - SDC Attempting to adjust Front End prematurely, better to tune backend first and maintain API
+  - SDC recognizing value of denormalized data
+  - FEC jQuery toggling, but spagetthi code, React better
+  - MVP put the logic in the component itself, need to separate i
 
 ### Toughest Bug
 
