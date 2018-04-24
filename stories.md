@@ -25,8 +25,14 @@
     - Adaptable
     - Quick learner and love learning new technologies
   - Thoughtful communicator who tends to work well with others, it sounds like a simple thing, but oddly it is a hard one to teach so I think I lucked out on that. Most other things are teachable. 
+  - It is beneficial across domains, in an engineering team it amplifies what you can learn. 
   
 ### Greatest Weakness
+  - Ask a lot of questions
+    - The reason I do it is because it helps me train my mental model by constantly challenging it
+    - Important for me to keep it in check by batching questions, and it is important for me to not bother people with too many questions
+    - I enjoy working with others so it comes naturally to me, but maybe not so to other people which I respect
+  - Perfectionism, I don't mean this to be a weakness disguised as a strength, I consider perfectionism to absolutely be a weakness. It can be paralyzing and counterproductive. So not letting the perfect be an enemy of the good is something I have to keep in the forefront of my mind. 
 
 ### What is your dream job?
 
