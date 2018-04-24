@@ -107,13 +107,25 @@
   - SDC Attempting to adjust Front End prematurely, better to tune backend first and maintain API
   - SDC recognizing value of denormalized data
   - FEC jQuery toggling, but spagetthi code, React better
-  - MVP put the logic in the component itself, need to separate i
+  - MVP put the logic in the component itself, need to separate it out
 
 ### Toughest Bug
+  - SSR Bug with Google Maps React 
+    - changed to another library
 
 ### Enjoyed
+  - Identifying areas to make abstract
+  - Finding ways to optimize throughput 
+  - Configuring as docker containers and using docker compose up
+  - Designing an API
+  - Wireframing React components
+  - Seeing the full stack, durable, scalable, modular
 
 ### Leadership
+  - Coordinating for proxy server
+  - Helping a more solo team member stay integrated
+  - Founded a night school education program
+  
 
 ### Conflicts
 
