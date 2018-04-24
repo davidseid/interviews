@@ -19,6 +19,7 @@
     - Really just looking to contribute to a team of software engineers to help steer a great product to market. 
 
 ### Greatest Strength
+  - List: Communicator, Curious, Adaptable, Patient
   - Ideas: 
     - Communicator
       - Thoughtful communicator who tends to work well with others, it sounds like a simple thing, but oddly it is a hard one to teach so I think I lucked out on that. Most other things are teachable. 
@@ -34,6 +35,7 @@
       - I always try to consider a problem from all sides, hesitant to just go with my first idea, but rather a lot of creativity comes out of examining your second and third ideas. Pixar story. 
   
 ### Greatest Weakness
+  - List: Questions, Perfectionist
   - Ask a lot of questions
     - The reason I do it is because it helps me train my mental model by constantly challenging it
     - Important for me to keep it in check by batching questions, and it is important for me to not bother people with too many questions
@@ -41,8 +43,15 @@
   - Perfectionism, I don't mean this to be a weakness disguised as a strength, I consider perfectionism to absolutely be a weakness. It can be paralyzing and counterproductive. So not letting the perfect be an enemy of the good is something I have to keep in the forefront of my mind. 
 
 ### What is your dream job?
+  - I'm a really values driven person and I also seek out intellectual rewards for fulfillment. I tend to be really excited be ideas and technology that I feel has a positive social impact or potential, or that is otherwise just otherwise undeniably compelling. 
+  - That said, at this stage I'm domain agnostic, but really interested to work with progressive technology
+  - This is cliche, but in this space if you aren't ahead of the curve you are behind it, so I am ideally looking to join a software engineering team that is pushing tech forward and where the engineers have some creative impact on steering the product.
+  - I'm also inspired by potential, and working on products where you don't even quite know what it is yet, and teams are still looking for the edges of what their ideas can accomplish. 
 
 ### Fit for this company?
+  - Name things I like about this company
+  - Answer with my dream job
+  - Like how they distinguish themselves in a crowded market
 
 ### Technical Strengths
 
