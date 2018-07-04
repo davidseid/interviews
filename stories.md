@@ -6,8 +6,13 @@
     - Highly rewarded as Software Engineer
     - Languages | International Experience | Python
     - Javascript | Full Stack | Back-end system design puzzles
-    - Realization about technology | New problem spaces
     - Project Manager | Communication and Collaboration
+    - I'm really excited about joining a forward looking engineering team 
+    - tackle juicy engineering challenges, and help steer an impactful product
+    - domain agnostic
+
+
+    - Realization about technology | New problem spaces
     - Team Software Engineers to steer product
 
   - Long form
@@ -16,7 +21,11 @@
     - That turned into a deeper study of JavaScript and building full stack web applications. I basically got hooked on the creative joy in building things, particularly the back end system design puzzle and tradeoffs. (optimizing databases, horizontal scaling)
     - I also kind of had a realization about technology, that it isn't about gadgets necessarily, but that technology is actually about knowledge and building off prior knowledge and using automation to abstract away things to free up mental space for tackling new problem spaces. 
     - In my previous life I was a project manager as well, so I appreciate the value in communication, collaboration, and understanding different stakeholders. 
-    - Really just looking to contribute to a team of software engineers to help steer a great product to market. 
+    - Really just looking to contribute to a team of software engineers to help steer a great product to market.
+
+### Five Whys
+- Before, Now, Future 
+- Tech 
 
 ### Greatest Strength
   - List: Communicator, Curious, Adaptable, Patient
@@ -53,7 +62,7 @@
   - Answer with my dream job
   - Like how they distinguish themselves in a crowded market
 
-### Technical Strengths/Goals
+### Technical Strengths and Interests
   - Love writing beautiful code
     - modular and readable
   - Love seeing the full stack
@@ -64,8 +73,10 @@
     - Architecture and optimization work is conceptually what gets me excited
   - Particularly strong with JavaScript
   - Interested in Data Science, Python machine learning, creative AI
+  - Love thinking about data flow
+  - Scribe v conjurer, 80 20 rule
 
-### Technical Weaknesses 
+### Technical Weaknesses and Goals
   - High interest but need more experience with dev ops
   - Want more exposure to horizontal scaling, deployment with AWS
   - Some exposure and reading with Kubernetes, Docker swarm, Amazon ECS, dynamic scaling, data persistence with EBS volumes, etc. 
@@ -90,7 +101,30 @@
 # Project Specific Questions
 
 ### Challenges
+  - 1) Optimizing Schema
+    - Problem: Inherited a schema, need to optimize for web scale, optimize core query performance
+      - initially was at 12 seconds
+    - Action:
+      - index
+      - remove redundancies
+      - identify unnecessary data
+      - denormalizaiton
+    - Result: 
+      - improved read time to less than 1ms
+    - Also benchmarked against PostgreSQL
+
+  - 2) Increasing Throughput 
+      - Stress test
+      - Remove middleware
+      - Implement redis cache
+
+  - 3) SSR 
+      - Bug
+
+
   - SDC Schema Design and Optimization | Inheriting Front End
+  - Mongo, redundancy, denormalization, unnecessary information
+
   - SDC Optimize for webscale 
     - Seed to 10M
     - Isolate DBs
@@ -105,7 +139,7 @@
     - shallow rendering, snapshots
   - MVP Storing parsed source text in memory, data structure
 
-### Mistakes and Failures
+### Mistakes and Failures || What I would do Differently
   - SDC Attempting to adjust Front End prematurely, better to tune backend first and maintain API
   - SDC recognizing value of denormalized data
   - FEC jQuery toggling, but spagetthi code, React better
@@ -114,6 +148,14 @@
 ### Toughest Bug
   - SSR Bug with Google Maps React 
     - changed to another library
+  - Problem: 
+    - Multiple subcomponents that should have been rendering, but they were not
+    - Was working previously
+  - Action:
+    - Looked into the error messages, reference attribute error in React,
+    - Had to dig through the react package 
+  - Result:
+    - Switched libraries 
 
 ### Enjoyed
   - Identifying areas to make abstract
@@ -127,11 +169,22 @@
   - Coordinating and anticipating for proxy server
   - Helping a more solo team member stay integrated
   - Forge ahead of team examine Dockerizing, SSR, deployment
-  - Founded a night school education program
-
+  - Founded a night school education program, Manager at a Consulting Company
 
 ### Conflicts
+  - Style guide conversations (airbnb linter versus not)
+    - some people were lazy or resistant to things
+    - walk through the advantages 
+  - Standardizing server side rendering approach (next versus not)
+    - looked briefly into it, next seems good but requires you to use particular architecture
+    - abstracts away a lot of the difficulty
+  - Choosing to use Docker or not, made up pros and cons list, brought everyone together
+    - easy spin up and use
+    - extra configuration
+    - people just hadn't used it before
+    - forged ahead and made suggestions
+  - Interesting discussions about where to pass in 
+  
 
-### What you would do differently
 
 
